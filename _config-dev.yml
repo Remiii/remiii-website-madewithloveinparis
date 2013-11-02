@@ -1,0 +1,8 @@
+#Github page settings
+
+port: 10105
+
+url: http://localhost:10105
+
+future: true
+
