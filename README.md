@@ -4,7 +4,7 @@ Source code of madewithloveinparis.org
 
 Fork me on GITHUB https://github.com/Remiii/remiii-website-madewithloveinparis
 
-![TravisStatus](https://travis-ci.org/Remiii/remiii-website-madewithloveinparis)<br />
+![TravisStatus](https://travis-ci.org/Remiii/remiii-website-madewithloveinparis.png)<br />
 
 ## Dev evt
 
